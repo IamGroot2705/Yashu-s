@@ -5,10 +5,10 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 5173,
-    proxy: {
-      "/upload": "http://localhost:8000",
-      "/session": "http://localhost:8000",
-      "/health": "http://localhost:8000",
-    },
+    // proxy: {
+    //   "/upload": "http://localhost:8000",
+    //   "/session": "http://localhost:8000",
+    //   "/health": "http://localhost:8000",
+    // },
   },
 });
