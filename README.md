@@ -59,7 +59,8 @@ ML        →  scikit-learn · pandas · scipy · numpy
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn app:app --reload --port 8000
+uvicorn app:app --host 0.0.0.0 --port $PORT
+
 ```
 
 ### Frontend
