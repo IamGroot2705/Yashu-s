@@ -117,6 +117,6 @@ ml-cleaning-studio/
 
 <div align="center">
 
-Made with ❤️ · [Live App](https://yashu-s.vercel.app/)
+Made by ME 😎· [Live App](https://yashu-s.vercel.app/)
 
 </div>
