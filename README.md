@@ -72,7 +72,7 @@ npm install
 Create a `.env` file inside `frontend/`:
 
 ```env
-VITE_API_URL=http://localhost:8000
+VITE_API_URL=https://yashu-s.vercel.app/
 ```
 
 Then run:
@@ -81,7 +81,7 @@ Then run:
 npm run dev
 ```
 
-App will be live at `http://localhost:5173`
+App will be live at `https://yashu-s.vercel.app/`
 
 ---
 
